@@ -1,8 +1,7 @@
 ## Olá eu sou a Edvalmore, estudante e amante de Tecnologia!
-<div>
+<div style="display: inline_block">
 
 <img whidth=250 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edvalmore&whidth=250" />
-ㅤ
 <img whidth=250 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvalmore&layout=compact&langs_count=8&whidth=250" />
 
 </div>
