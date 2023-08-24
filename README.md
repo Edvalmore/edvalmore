@@ -2,7 +2,7 @@
 <div style="display: inline_block">
 
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=edvalmore&whidth=250" />
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=edvalmore&layout=compact&langs_count=8&width="250"" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=edvalmore&layout=compact&langs_count=8&width="300"" />
 
 </div>
 <div style="display: inline_block"><br>
