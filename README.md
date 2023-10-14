@@ -1,16 +1,6 @@
 ## Olá eu sou a Edvalmore, estudante e amante de Tecnologia!
 
 <div style = " display: flex" align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=edvalmore" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvalmore&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
-<div style = " display: flex" align="center">
   <a href=" https://github.com/lauramelo28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvalmore&show_icons=true&theme=clean&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvalmore&layout=compact&langs_count=7&theme=clean"/>
