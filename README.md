@@ -123,13 +123,13 @@ Me chamo Edvalmore Oliveira, sou formado em Sistemas de Informação pela PUC Mi
     align="left" 
     alt="GitHub Stats" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=edvalmore&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=450&card_height=200" 
+    src="https://github-stats-extended.vercel.app/api?username=edvalmore&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_height=200" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=edvalmore&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=450&card_height=300" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=edvalmore&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_height=300" 
   />
 
 </p>
